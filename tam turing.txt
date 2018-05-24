@@ -1,0 +1,22 @@
+name: tam
+init: q0
+accept: aceita
+
+//-------DELTA FUNCTION:
+q0,a,_
+q0,a,1,>,>
+
+q0,b,_
+q0,b,1,>,>
+
+q0,_,_
+q1,_,_,>,-
+
+q1,a,_
+q0,a,1,>,>
+
+q1,b,_
+q0,b,1,>,>
+
+q1,_,_
+aceita,_,_,-,-

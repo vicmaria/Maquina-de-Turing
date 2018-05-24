@@ -1,0 +1,17 @@
+name: bin_par
+init: q0
+accept: qaceita
+
+//-------DELTA FUNCTION:
+q0,1
+q0,1,>
+
+q0,0
+q0,0,>
+
+q0,_
+q1,_,<
+
+q1,0
+qaceita,_,-
+
